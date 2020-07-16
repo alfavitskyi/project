@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="addedServices" uuid="ad81bfae-2f17-4700-931c-365b54630ec1">
+      <driver-ref>h2.unified</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:$PROJECT_DIR$</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="abonenty@localhost" uuid="40d0ebf8-c676-454c-8319-ff2813d4be3a">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/abonenty?useUnicode=true&amp;serverTimezone=UTC&amp;useSSL=false</jdbc-url>
+    </data-source>
+  </component>
+</project>
